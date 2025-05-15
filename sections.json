@@ -1,0 +1,15 @@
+{
+    "headerText": "Welcome to our store!",
+    "bannerImage": "https://placehold.co/600x400",
+    "infoSections": [
+      {
+        "title": "Our Values",
+        "content": "We believe in quality and fairness"
+      },
+      {
+        "title": "Shipping Info",
+        "content": "We ship worldwide with free delivery on first order"
+      }
+    ]
+  }
+  

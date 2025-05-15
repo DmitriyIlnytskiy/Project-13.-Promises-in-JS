@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Product A",
+      "price": 20,
+      "imageUrl": "https://placehold.co/300x200",
+      "infoButton" : "https://placehold.co/300x200"
+    },
+    {
+      "id": 2,
+      "title": "Product B",
+      "price": 30,
+      "imageUrl": "https://placehold.co/300x200",
+      "infoButton" : "https://placehold.co/300x200"
+    },
+    {
+      "id": 3,
+      "title": "Product C",
+      "price": 25,
+      "imageUrl": "https://placehold.co/300x200",
+      "infoButton" : "https://placehold.co/300x200"
+    },
+    {
+        "id": 4,
+        "title": "Product D",
+        "price": 45,
+        "imageUrl": "https://placehold.co/300x200",
+        "infoButton" : "https://placehold.co/300x200"
+      }
+  ]
+  
